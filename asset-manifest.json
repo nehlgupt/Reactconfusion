@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Reactconfusion/static/css/main.533e19f4.chunk.css",
+    "main.js": "/Reactconfusion/static/js/main.e1c541d5.chunk.js",
+    "main.js.map": "/Reactconfusion/static/js/main.e1c541d5.chunk.js.map",
+    "runtime-main.js": "/Reactconfusion/static/js/runtime-main.0fad1114.js",
+    "runtime-main.js.map": "/Reactconfusion/static/js/runtime-main.0fad1114.js.map",
+    "static/css/2.b65e54f5.chunk.css": "/Reactconfusion/static/css/2.b65e54f5.chunk.css",
+    "static/js/2.9a5dfa15.chunk.js": "/Reactconfusion/static/js/2.9a5dfa15.chunk.js",
+    "static/js/2.9a5dfa15.chunk.js.map": "/Reactconfusion/static/js/2.9a5dfa15.chunk.js.map",
+    "index.html": "/Reactconfusion/index.html",
+    "precache-manifest.36a04478b77522724d4151a6e8f70f7d.js": "/Reactconfusion/precache-manifest.36a04478b77522724d4151a6e8f70f7d.js",
+    "service-worker.js": "/Reactconfusion/service-worker.js",
+    "static/css/2.b65e54f5.chunk.css.map": "/Reactconfusion/static/css/2.b65e54f5.chunk.css.map",
+    "static/css/main.533e19f4.chunk.css.map": "/Reactconfusion/static/css/main.533e19f4.chunk.css.map",
+    "static/js/2.9a5dfa15.chunk.js.LICENSE.txt": "/Reactconfusion/static/js/2.9a5dfa15.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/Reactconfusion/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fad1114.js",
+    "static/css/2.b65e54f5.chunk.css",
+    "static/js/2.9a5dfa15.chunk.js",
+    "static/css/main.533e19f4.chunk.css",
+    "static/js/main.e1c541d5.chunk.js"
+  ]
+}
